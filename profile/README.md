@@ -24,4 +24,4 @@
 
 | Repository | Description | Status |
 | ---------- | ----------- | ------ |
-| [autoware_lidar_centerpoint](https://github.com/thinking-cars/autoware_lidar_centerpoint) | Modularized 3D lidar detection model from [Autoware Universe](https://github.com/autowarefoundation/autoware_universe). | 🚧 Under Construction |
+| [autoware_lidar_centerpoint](https://github.com/thinking-cars/autoware_lidar_centerpoint) | Modularized 3D lidar detection model from [Autoware Universe](https://github.com/autowarefoundation/autoware_universe). | ✅ Active |
