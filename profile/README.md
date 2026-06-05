@@ -1,19 +1,21 @@
-## Thinking Cars
+## Thinking Cars - Qualifying the future of open-source automated driving
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+[![](https://img.shields.io/badge/Website-thinking--cars.de-brightgreen?style=for-the-badge)](https://thinking-cars.de/) [![](https://img.shields.io/badge/Contact-info%40thinking--cars.de-yellow?style=for-the-badge)](mailto:info@thinking-cars.de)
 
 > 🚧 This GitHub organization is currently under construction.
 
-### Benchmarking
+### Repositories
+
+> 🔗: Repository is not hosted in the [openads-project](github.com/openads-project/) GitHub organization
+
+#### Community Building
+
+| Repository | Description | Status |
+| ---------- | ----------- | ------ |
+| [openads-project.github.io](https://github.com/openads-project/openads-project.github.io) | [**Documentation of the OpenADS ecosystem**](https://openads-project.github.io), including automated driving software stack, simulation and development toolchain. | 🚧 Under Construction |
+| [tutorial-itsc-26](https://github.com/openads-project/tutorial-itsc-26) | [Website](https://openads-project.github.io/tutorial-itsc-26/) for OpenADS tutorial on IEEE ITSC 2026 in Naples, Italy. | ✅ Active |
+
+#### Benchmarking
 
 | Repository | Description | Teaser | Status |
 | ---------- | ----------- | ----------- | ------ |
@@ -21,7 +23,7 @@
 | [autonomy_benchmarks](https://github.com/thinking-cars/autonomy_benchmarks) | Autonomy.Benchmarks enables the Automated Driving community to easily benchmark their automated driving building blocks across different tasks and datasets. |  | 🚧 Under Construction |
 | [autonomy_bot]() | Easily benchmark automated driving modules and full AD stacks as part of your CI/CD workflow. | <img width="200" alt="autonomy-bot-teaser" src="https://github.com/user-attachments/assets/f783881d-7a66-452e-a81e-e97408b15233" /> | 🚧 Under Construction |
 
-### Models
+#### Models
 
 | Repository | Description | Status |
 | ---------- | ----------- | ------ |
