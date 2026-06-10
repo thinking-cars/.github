@@ -6,8 +6,6 @@
 
 ### Repositories
 
-> 🔗: Repository is not hosted in the [openads-project](github.com/openads-project/) GitHub organization
-
 #### Community Building
 
 | Repository | Description | Status |
