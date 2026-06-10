@@ -21,7 +21,7 @@
 | [autonomy_benchmarks](https://github.com/thinking-cars/autonomy_benchmarks) | Autonomy.Benchmarks enables the Automated Driving community to easily benchmark their automated driving building blocks across different tasks and datasets. |  | 🚧 Under Construction |
 | [autonomy_bot]() | Easily benchmark automated driving modules and full AD stacks as part of your CI/CD workflow. | <img width="200" alt="autonomy-bot-teaser" src="https://github.com/user-attachments/assets/f783881d-7a66-452e-a81e-e97408b15233" /> | 🚧 Under Construction |
 
-#### Models
+#### OpenADS Model Integrations
 
 | Repository | Description | Status |
 | ---------- | ----------- | ------ |
