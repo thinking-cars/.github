@@ -10,7 +10,7 @@
 
 | Repository | Description | Status |
 | ---------- | ----------- | ------ |
-| [openads-project.github.io](https://github.com/openads-project/openads-project.github.io) | [**Documentation of the OpenADS ecosystem**](https://openads-project.github.io), including automated driving software stack, simulation and development toolchain. | 🚧 Under Construction |
+| [openads-project](https://github.com/openads-project/) | [**Open Automated Driving Systems Ecosystem**](https://github.com/openads-project/), including automated driving software stack, simulation and development toolchain. | 🚧 Under Construction |
 | [tutorial-itsc-26](https://github.com/openads-project/tutorial-itsc-26) | [Website](https://openads-project.github.io/tutorial-itsc-26/) for OpenADS tutorial on IEEE ITSC 2026 in Naples, Italy. | ✅ Active |
 
 #### Benchmarking
