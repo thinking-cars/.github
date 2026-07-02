@@ -46,9 +46,9 @@ Expert consulting to help OEM and autonomy teams select, adopt, and integrate op
 
 | Repository | Description | Teaser | Status |
 | ---------- | ----------- | ----------- | ------ |
-| [autonomy_datasets](https://github.com/thinking-cars/autonomy_datasets) | Unified ROS 2 Interface for automated driving datasets. | ![](teaser-datasets.gif) | ✅ Active |
-| [autonomy_benchmarks](https://github.com/thinking-cars/autonomy_benchmarks) | Autonomy.Benchmarks enables the Automated Driving community to easily benchmark their automated driving building blocks across different tasks and datasets. | ![](teaser-bot.gif) | 🚧 Under Construction |
-| [autonomy_bot]() | Easily benchmark automated driving modules and full AD stacks as part of your CI/CD workflow. | ![](teaser-bot.gif) | 🚧 Under Construction |
+| [autonomy_datasets](https://github.com/thinking-cars/autonomy_datasets) | Unified ROS 2 Interface for automated driving datasets. | <img src="teaser-datasets.gif" width="200"> | ✅ Active |
+| [autonomy_benchmarks](https://github.com/thinking-cars/autonomy_benchmarks) | Autonomy.Benchmarks enables the Automated Driving community to easily benchmark their automated driving building blocks across different tasks and datasets. | <img src="teaser-bot.gif" width="200"> | 🚧 Under Construction |
+| [autonomy_bot]() | Easily benchmark automated driving modules and full AD stacks as part of your CI/CD workflow. | <img src="teaser-bot.gif" width="200"> | 🚧 Under Construction |
 
 ### 🧩 OpenADS — Open Automated Driving Systems (`openads-project`)
 
@@ -61,11 +61,12 @@ OpenADS is the community ecosystem for building and benchmarking interoperable A
 | [openadstack](https://github.com/openads-project/openadstack) | Full-stack compositions for different AD use cases | 🚧 Under Construction |
 | [openadsim]() | Simulation environment for running and testing OpenADStack with CARLA or SUMO. | 🚧 Under Construction |
 
-#### OpenADS Model Integrations
+#### OpenADS Module Integrations
 
-| Repository | Description | Status |
-| ---------- | ----------- | ------ |
-| [autoware_lidar_centerpoint](https://github.com/thinking-cars/autoware_lidar_centerpoint) | Modularized 3D lidar detection model from [Autoware Universe](https://github.com/autowarefoundation/autoware_universe). | ✅ Active |
+| Repository | Description | Teaser | Status |
+| ---------- | ----------- | ------ | ------ |
+| [autoware_lidar_centerpoint](https://github.com/thinking-cars/autoware_lidar_centerpoint) | Modularized 3D lidar detection model from [Autoware Universe](https://github.com/autowarefoundation/autoware_universe). | <img src="https://github.com/thinking-cars/autoware_lidar_centerpoint/blob/main/assets/teaser-waymo.gif" width="200"> | ✅ Active |
+| [autoware_multi_object_tracker](https://github.com/thinking-cars/autoware_multi_object_tracker) | Modularized 3D multi-object tracker from [Autoware Universe](https://github.com/autowarefoundation/autoware_universe). | <img src="https://github.com/thinking-cars/autoware_multi_object_tracker/blob/main/assets/teaser-nuscenes.gif" width="200"> | ✅ Active |
 
 ---
 
