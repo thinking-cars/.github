@@ -67,6 +67,7 @@ OpenADS is the community ecosystem for building and benchmarking interoperable A
 | ---------- | ----------- | ------ | ------ |
 | [autoware_lidar_centerpoint](https://github.com/thinking-cars/autoware_lidar_centerpoint) | Modularized 3D lidar detection model from [Autoware Universe](https://github.com/autowarefoundation/autoware_universe). | <img src="https://github.com/thinking-cars/autoware_lidar_centerpoint/blob/main/assets/teaser-waymo.gif" width="200"> | ✅ Active |
 | [autoware_multi_object_tracker](https://github.com/thinking-cars/autoware_multi_object_tracker) | Modularized 3D multi-object tracker from [Autoware Universe](https://github.com/autowarefoundation/autoware_universe). | <img src="https://github.com/thinking-cars/autoware_multi_object_tracker/blob/main/assets/teaser-nuscenes.gif" width="200"> | ✅ Active |
+| [focalformer3d_detector](https://github.com/thinking-cars/focalformer3d_detector) | ROS 2 package integrating the official [FocalFormer3D implementation by NVlabs](https://github.com/NVlabs/FocalFormer3D). | <img src="https://github.com/thinking-cars/focalformer3d_detector/raw/main/assets/teaser.gif" width="200"> | ✅ Active |
 
 ---
 
