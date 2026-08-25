@@ -44,30 +44,32 @@ Expert consulting to help OEM and autonomy teams select, adopt, and integrate op
 
 ### 🏎️ Benchmarking (`thinking-cars`)
 
-| Repository | Description | Teaser | Status |
-| ---------- | ----------- | ----------- | ------ |
-| [autonomy_datasets](https://github.com/thinking-cars/autonomy_datasets) | Unified ROS 2 Interface for automated driving datasets. | <img src="teaser-datasets.gif" width="200"> | ✅ Active |
-| [autonomy_benchmarks](https://github.com/thinking-cars/autonomy_benchmarks) | Autonomy.Benchmarks enables the Automated Driving community to easily benchmark their automated driving building blocks across different tasks and datasets. | <img src="teaser-bot.gif" width="200"> | 🚧 Under Construction |
+| Repository | Description | Teaser | Release |
+| ---------- | ----------- | ------ | ------- |
+| [autonomy_datasets](https://github.com/thinking-cars/autonomy_datasets) | Unified ROS 2 Interface for automated driving datasets. | <img src="teaser-datasets.gif" width="200"> | [![](https://img.shields.io/github/v/release/thinking-cars/autonomy_datasets)](https://github.com/thinking-cars/autonomy_datasets/releases/latest) |
+| [autonomy_benchmarks](https://github.com/thinking-cars/autonomy_benchmarks) | Autonomy.Benchmarks enables the Automated Driving community to easily benchmark their automated driving building blocks across different tasks and datasets. | <img src="teaser-bot.gif" width="200"> | [![](https://img.shields.io/github/v/release/thinking-cars/autonomy_benchmarks)](https://github.com/thinking-cars/autonomy_benchmarks/releases/latest) |
 | [autonomy_bot]() | Easily benchmark automated driving modules and full AD stacks as part of your CI/CD workflow. | <img src="teaser-bot.gif" width="200"> | 🚧 Under Construction |
 
 ### 🧩 OpenADS — Open Automated Driving Systems (`openads-project`)
 
-OpenADS is the community ecosystem for building and benchmarking interoperable AD software. Developed as part of Germany's [Ecosystem Mobility 4.0](https://ecosystemmobility40.de/en/home/) initiative and aligned with the [European Connected and Autonomous Vehicle Alliance](https://digital-strategy.ec.europa.eu/en/policies/vehicle-alliance).
+Thinking Cars is an active contributor and maintainer in the OpenADS community — an ecosystem for building and benchmarking interoperable AD software. Developed as part of Germany's [Ecosystem Mobility 4.0](https://ecosystemmobility40.de/en/home/) initiative and aligned with the [European Connected and Autonomous Vehicle Alliance](https://digital-strategy.ec.europa.eu/en/policies/vehicle-alliance).
 
-| Repository | Description | Status |
-| ---------- | ----------- | ------ |
-| [openads-project](https://github.com/openads-project/) | [**Open Automated Driving Systems Ecosystem**](https://github.com/openads-project/), including automated driving software stack, simulation and development toolchain. | 🚧 Under Construction |
-| [openads-project.github.io](https://github.com/openads-project/openads-project.github.io) | [**Documentation of the OpenADS ecosystem**](https://openads-project.github.io), including automated driving software stack, simulation and development toolchain. | 🚧 Under Construction |
-| [openadstack](https://github.com/openads-project/openadstack) | Full-stack compositions for different AD use cases | 🚧 Under Construction |
-| [openadsim]() | Simulation environment for running and testing OpenADStack with CARLA or SUMO. | 🚧 Under Construction |
+| Repository | Description | Release |
+| ---------- | ----------- | ------- |
+| [OpenADS](https://github.com/openads-project/) | [**Open Automated Driving Systems Ecosystem**](https://openads-project.github.io), including automated driving software stack, simulation and development toolchain. | [![](https://img.shields.io/badge/release-multiple-green)](#) |
+| [OpenADStack](https://openads-project.github.io/openadstack/openadstack.html) | Baseline reference implementation for modular ROS 2 automated-driving stacks in OpenADS. | [![](https://img.shields.io/github/v/release/openads-project/openadstack)](https://github.com/openads-project/openadstack/releases/latest) |
+| [OpenADSim](https://openads-project.github.io/openadsim/openadsim.html) | Simulation environment for testing the OpenADStack with CARLA or SUMO. | [![](https://img.shields.io/github/v/release/openads-project/openadsim)](https://github.com/openads-project/openadsim/releases/latest) |
+| [OpenADSuite](https://openads-project.github.io/openadsuite/openadsuite.html) | Development tools that streamline developer workflows, such as module templates and ready-to-use development environments. | [![](https://img.shields.io/badge/release-multiple-green)](#) |
+| [OpenADSafety 🚧](https://openads-project.github.io/openadsafety/openadsafety.html) | Documentation and tools for validation and verification of automated-driving modules and full stacks. | [![](https://img.shields.io/badge/release-wip-yellow)](#) |
+
 
 #### OpenADS Module Integrations
 
-| Repository | Description | Teaser | Status |
-| ---------- | ----------- | ------ | ------ |
-| [autoware_lidar_centerpoint](https://github.com/thinking-cars/autoware_lidar_centerpoint) | Modularized 3D lidar detection model from [Autoware Universe](https://github.com/autowarefoundation/autoware_universe). | <img src="https://github.com/thinking-cars/autoware_lidar_centerpoint/blob/main/assets/teaser-waymo.gif" width="200"> | ✅ Active |
-| [autoware_multi_object_tracker](https://github.com/thinking-cars/autoware_multi_object_tracker) | Modularized 3D multi-object tracker from [Autoware Universe](https://github.com/autowarefoundation/autoware_universe). | <img src="https://github.com/thinking-cars/autoware_multi_object_tracker/blob/main/assets/teaser-nuscenes.gif" width="200"> | ✅ Active |
-| [focalformer3d_detector](https://github.com/thinking-cars/focalformer3d_detector) | ROS 2 integration of the [NVlabs/FocalFormer3D](https://github.com/NVlabs/FocalFormer3D) lidar object detection model. | <img src="https://github.com/thinking-cars/focalformer3d_detector/raw/main/assets/teaser.gif" width="200"> | ✅ Active |
+| Repository | Description | Teaser | Release |
+| ---------- | ----------- | ------ | ------- |
+| [autoware_lidar_centerpoint](https://github.com/thinking-cars/autoware_lidar_centerpoint) | Modularized 3D lidar detection model from [Autoware Universe](https://github.com/autowarefoundation/autoware_universe). | <img src="https://github.com/thinking-cars/autoware_lidar_centerpoint/blob/main/assets/teaser-waymo.gif" width="200"> | [![](https://img.shields.io/github/v/release/thinking-cars/autoware_lidar_centerpoint)](https://github.com/thinking-cars/autoware_lidar_centerpoint/releases/latest) |
+| [autoware_multi_object_tracker](https://github.com/thinking-cars/autoware_multi_object_tracker) | Modularized 3D multi-object tracker from [Autoware Universe](https://github.com/autowarefoundation/autoware_universe). | <img src="https://github.com/thinking-cars/autoware_multi_object_tracker/blob/main/assets/teaser-nuscenes.gif" width="200"> | [![](https://img.shields.io/github/v/release/thinking-cars/autoware_multi_object_tracker)](https://github.com/thinking-cars/autoware_multi_object_tracker/releases/latest) |
+| [focalformer3d_detector](https://github.com/thinking-cars/focalformer3d_detector) | ROS 2 integration of the [NVlabs/FocalFormer3D](https://github.com/NVlabs/FocalFormer3D) lidar object detection model. | <img src="https://github.com/thinking-cars/focalformer3d_detector/raw/main/assets/teaser.gif" width="200"> | [![](https://img.shields.io/github/v/release/thinking-cars/focalformer3d_detector)](https://github.com/thinking-cars/focalformer3d_detector/releases/latest) |
 
 ---
 
