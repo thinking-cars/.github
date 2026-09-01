@@ -4,8 +4,6 @@
 [![Contact](https://img.shields.io/badge/Contact-info%40thinking--cars.de-yellow?style=for-the-badge)](mailto:info@thinking-cars.de)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Thinking%20Cars-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/thinking-cars/)
 
-> 🚧 This GitHub organization is currently under construction.
-
 **Open. Transparent. Qualified.**
 > We build the benchmark for transparent, trustworthy, and sovereign AD software.
 > Making open-source driving stacks easier to evaluate, easier to trust, and easier to integrate.
