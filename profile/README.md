@@ -28,13 +28,13 @@ Open-source automated driving stacks are powerful, but without transparent bench
 ### 🔍 Discover 
 We identify the right open-source components for your target application and compliance requirements, and map them against your existing stack.
 
-### 📊 Evaluate — *Prototype Available*
+### 📊 Evaluate – *Prototype Available*
 Automated evaluation and testing for open-source AD components. Transparent, reproducible metrics and report generation. Running on **your data** for **your auditable evidence**.
 
-### 📋 Qualify — *Coming Soon*
+### 📋 Qualify – *Coming Soon*
 Structured qualification documentation aligned with relevant standards. Ready for internal sign-off or external regulatory audit.
 
-### 🔧 Integration & Long-Term Support — *Coming Soon*
+### 🔧 Integration & Long-Term Support – *Coming Soon*
 Expert consulting to help OEM and autonomy teams select, adopt, and integrate open-source AD software into real delivery pipelines.
 
 ---
