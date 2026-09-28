@@ -1,4 +1,4 @@
-# Thinking Cars GmbH — Qualifying the Future of Open-Source Automated Driving
+# Thinking Cars GmbH – Qualifying the Future of Open-Source Automated Driving
 
 [![Website](https://img.shields.io/badge/Website-thinking--cars.de-brightgreen?style=for-the-badge)](https://thinking-cars.de/)
 [![Contact](https://img.shields.io/badge/Contact-info%40thinking--cars.de-yellow?style=for-the-badge)](mailto:info@thinking-cars.de)
@@ -45,7 +45,7 @@ Expert consulting to help OEM and autonomy teams select, adopt, and integrate op
 | Repository | Description | Teaser | Release |
 | ---------- | ----------- | ------ | ------- |
 | [autonomy_datasets](https://github.com/thinking-cars/autonomy_datasets) | Unified ROS 2 Interface for automated driving datasets. | <img src="teaser-datasets.gif" width="200"> | [![](https://img.shields.io/github/v/release/thinking-cars/autonomy_datasets)](https://github.com/thinking-cars/autonomy_datasets/releases/latest) |
-| [autonomy_benchmarks](https://github.com/thinking-cars/autonomy_benchmarks) | Autonomy.Benchmarks enables the Automated Driving community to easily benchmark their automated driving building blocks across different tasks and datasets. | <img src="teaser-bot.gif" width="200"> | [![](https://img.shields.io/github/v/release/thinking-cars/autonomy_benchmarks)](https://github.com/thinking-cars/autonomy_benchmarks/releases/latest) |
+| [autonomy_evaluation](https://github.com/thinking-cars/autonomy_evaluation) | Within the Autonomy.Benchmarks suite, Autonomy.Evaluation generates the metrics-based evidence for benchmarking automated driving deployments. | <img src="teaser-bot.gif" width="200"> | [![](https://img.shields.io/github/v/release/thinking-cars/autonomy_benchmarks)](https://github.com/thinking-cars/autonomy_benchmarks/releases/latest) |
 | [autonomy_bot]() | Easily benchmark automated driving modules and full AD stacks as part of your CI/CD workflow. | <img src="teaser-bot.gif" width="200"> | 🚧 Under Construction |
 
 ### 🧩 OpenADS — Open Automated Driving Systems (`openads-project`)
